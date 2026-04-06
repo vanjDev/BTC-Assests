@@ -1,0 +1,161 @@
+{
+  "color": "#D4AF37",
+  "audio": {
+    "defaultVolume": 0.08,
+    "autoplay": true
+  },
+  "background": {
+    "type": "video",
+    "file": "test.mp4"
+  },
+  "locales": {
+    "loading": "BATANGAS CITY RP",
+    "loading_desc": "Inaabangan ka namin... Loading game data, please wait.",
+    "viewImage": "View image",
+    "news": "News",
+    "events": "Events",
+    "gallery": "Gallery",
+    "keybinds": "Keybinds"
+  },
+  "navbuttons": {
+    "website": {
+      "text": "Website",
+      "enabled": false,
+      "url": ""
+    },
+    "discord": {
+      "text": "Discord",
+      "enabled": true,
+      "url": "https://discord.gg/wtkF2tvdhv"
+    },
+    "hideui": {
+      "text": "Hide UI"
+    },
+    "showui": {
+      "text": "Show UI"
+    }
+  },
+  "news": [
+    {
+      "title": "Welcome to Batangas City RP!",
+      "description": "Batangas City Roleplay is a Filipino FiveM server set in the heart of Batangas. We offer a rich and immersive experience with custom jobs, scripts, and events. Make sure to read the rules in our Discord before playing!",
+      "image": "news.png",
+      "date": "2/28/2026"
+    },
+    {
+      "title": "Server Rules Updated",
+      "description": "Our server rules have been updated. Failrp, metagaming, and combat logging are strictly enforced. Violations will result in warnings or bans. Stay respectful and enjoy the roleplay experience.",
+      "image": "news.png",
+      "date": "2/28/2026"
+    },
+    {
+      "title": "New Scripts Added",
+      "description": "We recently added new scripts including community service, carry system, and improved vehicle mechanics. Join the server to experience all the latest features!",
+      "image": "news.png",
+      "date": "2/28/2026"
+    }
+  ],
+  "events": [
+    {
+      "title": "Car Meet — Every Saturday",
+      "description": "Join us every Saturday night for the weekly car meet at the car meet location. Show off your rides, win prizes, and have fun with the community!",
+      "image": "event.png",
+      "date": "Every Saturday"
+    },
+    {
+      "title": "Police Chase Event",
+      "description": "Cops vs Criminals — a server-wide chase event hosted by admins. Stay tuned in Discord for the exact date and time!",
+      "image": "event.png",
+      "date": "TBA"
+    },
+    {
+      "title": "Job Fair — Hiring All Factions",
+      "description": "All factions are open for recruitment. Join the police, ambulance, mechanic, or go the illegal route. Visit the Job Center in-game to apply.",
+      "image": "event.png",
+      "date": "Ongoing"
+    }
+  ],
+  "gallery": [
+    {
+      "image": "postal_map.png"
+    },
+    {
+      "image": "gallery.png"
+    },
+    {
+      "image": "gallery.png"
+    }
+  ],
+  "keybinds": [
+    {
+      "key": "F1",
+      "action": "Open Phone"
+    },
+    {
+      "key": "F2",
+      "action": "Open Inventory"
+    },
+    {
+      "key": "F5",
+      "action": "Open Character Menu"
+    },
+    {
+      "key": "F6",
+      "action": "Open Job Menu"
+    },
+    {
+      "key": "U",
+      "action": "Toggle ID / Scoreboard"
+    },
+    {
+      "key": "G",
+      "action": "Hands Up"
+    },
+    {
+      "key": "H",
+      "action": "Point Gesture"
+    },
+    {
+      "key": "X",
+      "action": "Crouch"
+    },
+    {
+      "key": "Z",
+      "action": "Carry Player"
+    },
+    {
+      "key": "B",
+      "action": "/me — Local Chat Action"
+    },
+    {
+      "key": "L",
+      "action": "Lock / Unlock Vehicle"
+    },
+    {
+      "key": "Y",
+      "action": "Radio (Hold)"
+    },
+    {
+      "key": "Left Alt",
+      "action": "Toggle Drive-By Mode"
+    },
+    {
+      "key": "T",
+      "action": "Open Chat"
+    }
+  ],
+  "songs": [
+    {
+      "title": "Batangas City Sound Track",
+      "artist": "Nolann",
+      "image": "logo.png",
+      "file": "audio.mp3"
+    },
+    {
+      "title": "Batangas City Sound Track 2",
+      "artist": "Nolann",
+      "image": "logo.png",
+      "file": "audio2.mp3"
+    }
+  ]
+}
